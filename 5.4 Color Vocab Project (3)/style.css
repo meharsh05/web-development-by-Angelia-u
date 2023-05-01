@@ -1,3 +1,7 @@
+h1{
+    font-family: 'Comme', sans-serif;
+}
+
 img{
     height: 200px;
     width: 200px;
@@ -8,6 +12,7 @@ img{
 }
 
 #red{
+    font-family: 'Instrument Serif', serif;
     color: red;
 }
 #blue{

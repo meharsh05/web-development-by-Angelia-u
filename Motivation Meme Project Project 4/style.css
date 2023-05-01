@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+p{
+    color: aliceblue;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Instrument Serif', serif;
+    background-color: black;
+}
+
+.poster{
+    border: 5px solid white;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 500px;
+}
